@@ -80,7 +80,7 @@ status - Check bot status
 
 ### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
 
-### 🥳 [DEVELOPER](https://instagram.com/TechifyRahul)
+### 🥳 [DEVELOPER](https://instagram.com/ImRahulDhankhar)
 
 ### 📌 NOTE
 
