@@ -105,7 +105,7 @@ class Txt(object):
 
 💖 𝐔𝐏𝐈 𝐈𝐃 : `Dum`
 
-💗 𝐐𝐑 𝐂𝐨𝐝𝐞 : <b><a href='https://TechifyBots.github.io/PayWeb'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
+💗 𝐐𝐑 𝐂𝐨𝐝𝐞 : <b><a href='htps://TechifyBots.github.io/PayWeb'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
 """
 
     SEND_METADATA = """<b>» <u>ᴛᴏ ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ ᴍᴇᴛᴀᴅᴀᴛᴀ</u></b>
