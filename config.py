@@ -9,7 +9,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
    
     # database config
-    DATABASE_NAME = os.environ.get("DATABASE_NAME","")     
+    DATABASE_NAME = os.environ.get("DATABASE_NAME","harshithacharya633")     
     DATABASE_URL = os.environ.get("DATABASE_URL","")
 
     # other configs
