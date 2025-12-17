@@ -94,6 +94,7 @@ class Txt(object):
 ️ <b>⏳️ Done :</b> {0}%
  <b>🚀 Speed :</b> {3}/s
 ️ <b>⏰️ ETA :</b> {4}
+ <b>⏰️ Goflix Team
 """
 
     DONATE_TXT = """
